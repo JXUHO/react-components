@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.draggable {
+  position: fixed;
+  top: 10px;
+  left: 10px;
+  max-width: 200px;
+  border: 1px solid #dedede;
+}
+
+.draggable-panel {
+  padding: 10px;
+  background-color: #eee;
+  cursor: move;
+}
+
+.draggable-content {
+  padding: 15px;
+}
